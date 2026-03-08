@@ -1,6 +1,6 @@
-# Fly High 🕹️
+# Weather Trecker 🕹️
 
-**Fly High** is a 2D interactive game developed in Python using the **Pygame** library.  
+**Weather Trecker** is a 2D interactive game developed in Python using the **Pygame** library.  
 In this game, the player controls a character to avoid obstacles and collect points while flying high in the sky.
 
 ---
